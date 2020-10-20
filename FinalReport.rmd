@@ -1,6 +1,6 @@
 ---
 title: "GSS challange"
-author: "Karen Hernandez!"
+author: "Karen Hernandez"
 date: "October 14, 2020"
 output: html_document
 ---
@@ -62,7 +62,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-Those who believe in postlife, if you do not believe in postlife, what are the odds that the bigbag is false? For thouse who did not beleive in postlife the odds that you said is false, the odds are 8/15. Suppose you did believe in postlife, what are the odds of saying its false? The odds are 88/67. There is not enough data to make a determination on the results. Normally odds are giving .406 : 1. 
+Those who believe in postlife, if you do not believe in postlife, what are the odds that the bigbag is false? For thouse who did not beleive in postlife the odds that you said is false, the odds are 8/15. Suppose you did believe in postlife, what are the odds of saying its false? The odds are 88/67. There is not enough data to make a determination on the results. Normally odds are giving .406 : 1.
 
 
 ```{r}
